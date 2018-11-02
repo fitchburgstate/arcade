@@ -1,2 +1,3 @@
 # arcade
-Games and structure for the red Arcade system
+Arcade system
+Games are in the arcade-games repo
