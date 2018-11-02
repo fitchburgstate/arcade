@@ -1,0 +1,15 @@
+Spook!
+
+The game of collecting the humans. Now in alpha.
+
+Ghost Controls:
+w-a-s-d For the respective movement(a-d, on ladders use w-s)
+z to jump
+x to get onto ladders
+c to reset your character to spawn
+
+Daemon Controls:
+Arrow Keys For the respective movement(L-R, on ladders use U-D)
+7 to jump
+8 to get onto ladders
+9 to reset your character to spawn

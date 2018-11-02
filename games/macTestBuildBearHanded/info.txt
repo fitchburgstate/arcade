@@ -1,0 +1,10 @@
+"Bear - Handed" Prison Break
+
+"Bear - Handed" Prison Break is a 2 player co-op game where they must work in unison to escape a
+cursed prison. Player 1 must use their short ranged attacks along with Player 2’s long ranged
+attacks to navigate their way past the angry warden and out of the prison.
+
+Josh Mulligan - Art, sound design, level design
+Brandon McKearney - Programmer, leve design
+Nathan Timbro - Producer, Programmer
+Chris Banks - Character Art, Animation
